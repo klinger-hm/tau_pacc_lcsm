@@ -1,0 +1,17 @@
+---
+title: "Project Overview"
+---
+
+# Project Aims
+
+Using latent change score models (lcsm), examine the associations between:
+
+1.  change in tau on change in pacc
+
+2.  change in pacc on change in tau
+
+3.  cross-sectional tau on change in pacc
+
+4.  cross-sectional pacc on change in tau
+
+We will test these associations while covarying for baseline age, sex, years of education, and APOEe4 status.

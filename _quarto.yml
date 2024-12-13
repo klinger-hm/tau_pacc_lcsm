@@ -1,0 +1,24 @@
+project:
+  type: book
+
+execute:
+  freeze: auto
+  
+book:
+  title: "Latent Change on Change Between Tau Accumulation and Cognitive Decline"
+  author: "Hannah Klinger"
+  date: "`r Sys.Date()`"
+  chapters:
+    - index.qmd
+
+
+
+format:
+  html:
+    self-contained: true
+    theme: cosmo
+    number-sections: false
+  # pdf:
+  #   documentclass: scrreprt
+
+editor: visual
