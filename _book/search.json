@@ -1,0 +1,9 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Latent Change on Change Between Tau Accumulation and Cognitive Decline",
+    "section": "",
+    "text": "Project Aims\nUsing latent change score models (lcsm), examine the associations between:\n\nchange in tau on change in pacc\nchange in pacc on change in tau\ncross-sectional tau on change in pacc\ncross-sectional pacc on change in tau\n\nWe will test these associations while covarying for baseline age, sex, years of education, and APOEe4 status."
+  }
+]
